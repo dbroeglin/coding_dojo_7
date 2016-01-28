@@ -10,8 +10,8 @@
 	<description>Potter Kata with JBehace</description>
 
 	<properties>
-		<jbehave.core.version>3.9.5</jbehave.core.version>
-		<jbehave.site.version>3.2</jbehave.site.version>
+		<jbehave.core.version>4.0.4</jbehave.core.version>
+		<jbehave.site.version>3.3</jbehave.site.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
