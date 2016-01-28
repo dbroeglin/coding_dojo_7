@@ -10,6 +10,7 @@ import org.jbehave.core.annotations.Then;
 import org.jbehave.core.annotations.When;
 
 public class PotterSteps {
+	// Is this safe ? Think about how state is handled during scenario execution...
 	private int nbBook1 = 0;
 	private int nbBook2 = 0;
 	private PotterDiscounter potterDiscounter = new PotterDiscounter();
